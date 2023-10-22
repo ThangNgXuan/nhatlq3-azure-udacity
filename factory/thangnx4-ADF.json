@@ -1,0 +1,9 @@
+{
+	"name": "thangnx4-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e947c09f-b422-4d69-93ae-ddf8862844b2",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
